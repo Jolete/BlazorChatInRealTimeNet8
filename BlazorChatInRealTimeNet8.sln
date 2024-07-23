@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorChatInRealTimeNet8", "BlazorChatInRealTimeNet8\BlazorChatInRealTimeNet8.csproj", "{9F36FC51-DCBA-413C-BF76-9E967653317A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorChatInRealTimeNet8.Client", "BlazorChatInRealTimeNet8.Client\BlazorChatInRealTimeNet8.Client.csproj", "{074BFF64-652E-484E-99E5-52DEEC2A265A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F36FC51-DCBA-413C-BF76-9E967653317A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F36FC51-DCBA-413C-BF76-9E967653317A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F36FC51-DCBA-413C-BF76-9E967653317A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F36FC51-DCBA-413C-BF76-9E967653317A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074BFF64-652E-484E-99E5-52DEEC2A265A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074BFF64-652E-484E-99E5-52DEEC2A265A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074BFF64-652E-484E-99E5-52DEEC2A265A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074BFF64-652E-484E-99E5-52DEEC2A265A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D301BBD7-A3A7-4318-9509-1EC396D328E5}
+	EndGlobalSection
+EndGlobal
